@@ -1,6 +1,11 @@
 # 1st-Data-Analysis-Project
-### Project Tittle: E Commerce Sales analysis 
 
+### Project Tittle: E Commerce Sales analysis 
+[Data Sources](#Data-Source)
+Tools Used
+Data Cleaning and Preparation
+Exploratory Data Analysis
+Data Analysis
 ### Data Sources
 The primary source of Data used here is freely downloaded from kaggle or Fred or any data repository sites.
 ---
@@ -31,3 +36,8 @@ Select*From Table1
 Where Condition= True 
 
 ### Data Visualization
+💻
+
+|Heading 1|Heading 2| Heading 3|
+|---------|---------|----------|
+|Table 1|Table 2|Table 3|
