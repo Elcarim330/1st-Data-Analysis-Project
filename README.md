@@ -5,7 +5,7 @@
 Tools Used
 Data Cleaning and Preparation
 Exploratory Data Analysis
-Data Analysis
+[Data Analysis](#Data-Analysis)
 ### Data Sources
 The primary source of Data used here is freely downloaded from kaggle or Fred or any data repository sites.
 ---
